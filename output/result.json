@@ -1,0 +1,36 @@
+{
+    "fileName": "claim8.txt",
+    "processingTime": "27.69 seconds",
+    "confidence": "Low",
+    "extractedFields": {
+        "Policy Number": "POL11111",
+        "Policyholder Name": "David Johnson",
+        "Effective Dates": null,
+        "Incident Date": "20-Jul-2026",
+        "Incident Time": null,
+        "Location": "Mysore",
+        "Description": "The accident appears to be staged and there may be fraud involved.",
+        "Claimant": null,
+        "Third Parties": null,
+        "Contact Details": "9876543210",
+        "Asset Type": null,
+        "Asset ID": null,
+        "Estimated Damage": "42000",
+        "Claim Type": "Vehicle Damage",
+        "Attachments": "Photos",
+        "Initial Estimate": "42000"
+    },
+    "missingFields": [
+        "Effective Dates",
+        "Incident Time",
+        "Claimant",
+        "Asset Type",
+        "Asset ID"
+    ],
+    "inconsistentFields": [
+        "Asset ID format is invalid."
+    ],
+    "recommendedRoute": "Investigation Flag",
+    "claimStatus": "🟠 Under Investigation",
+    "reasoning": "Fraud or suspicious keywords detected in the claim description."
+}
