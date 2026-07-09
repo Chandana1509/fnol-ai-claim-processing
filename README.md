@@ -3,6 +3,10 @@
 ## video walkthrough
 https://drive.google.com/file/d/1EFIKPtoNMaLRzao0Vhr1vm8wqTdClSXv/view?usp=sharing
 
+or
+
+https://www.loom.com/share/3f427220ba3e4ffeaac8c217af4e99c5
+
 ## Overview
 
 The **FNOL (First Notice of Loss) Claim Processing Agent** is an AI-powered application that automates the initial processing of insurance claim documents.
